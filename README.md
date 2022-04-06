@@ -7,7 +7,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'GimhaeGayaR';
+    font-family: 'GimhaeGaya';
     font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.eot');
@@ -18,7 +18,7 @@
     font-display: swap;
 } 
 @font-face {
-    font-family: 'GimhaeGayaB';
+    font-family: 'GimhaeGaya';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.eot');
