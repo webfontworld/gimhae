@@ -7,14 +7,25 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'GimhaeGaya';
+    font-family: 'GimhaeGayaR';
     font-weight: normal;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGaya.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGaya.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGaya.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGaya.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGaya.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'GimhaeGayaB';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.ttf') format("truetype");
     font-display: swap;
 } 
 </pre>
