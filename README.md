@@ -8,7 +8,7 @@
 <pre>
 @font-face {
     font-family: 'GimhaeGayaR';
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaR.eot?#iefix') format('embedded-opentype'),
@@ -19,7 +19,7 @@
 } 
 @font-face {
     font-family: 'GimhaeGayaB';
-    font-weight: normal;
+    font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/gimhae/GimhaeGayaB.eot?#iefix') format('embedded-opentype'),
